@@ -19,6 +19,7 @@
     <string name="pref_equalizer_summary_off">Equalizer jest nieaktywny</string>
     <string name="pref_equalizer_enable">Włącz</string>
     <string name="pref_equalizer_preset_title">Wybierz ustawienie</string>
+    <string name="pref_equalizer_loudness_title">Kompensacja głośności</string>
     <string name="pref_bassboost_title">Podbicie basu</string>
     <string name="pref_bassboost_summary_on">Podbicie basu jest włączone</string>
     <string name="pref_bassboost_summary_off">Podbicie basu jest wyłączone</string>
