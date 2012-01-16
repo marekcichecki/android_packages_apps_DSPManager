@@ -6,6 +6,15 @@
     <item>Duży pokój</item>
     <item>Scena</item>
   </string-array>
+  <string-array name="equalizer_loudness_modes">
+    <item>Wyłączone</item>
+    <item>Najsłabiej</item>
+    <item>Słabiej</item>
+    <item>Słabo</item>
+    <item>Mocno</item>
+     <item>Mocniej</item>
+     <item>Najmocniej</item>
+  </string-array>
   <string-array name="compression_modes">
     <item>Lekka</item>
     <item>Umiarkowana</item>
